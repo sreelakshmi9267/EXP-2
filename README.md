@@ -75,6 +75,13 @@ Tabulation :
 
 ![LC tabulation](https://github.com/user-attachments/assets/d4d0c24e-477d-42c7-8653-29f0f80bde64)
 
- 
+Graph:
+
+1.Open Circuit Characteristics:
+![open graph](https://github.com/user-attachments/assets/c180ec2e-5af3-4c1a-9a4a-0b9bcbb6c571)
+
+2.Load Characteristics:
+![load ch graph](https://github.com/user-attachments/assets/ab905919-d88d-4989-b13e-195926644521)
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
